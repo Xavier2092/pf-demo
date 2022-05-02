@@ -1,0 +1,104 @@
+{
+    "title": "Mirada de Cristal",
+    "genres": ["drama"],
+    "poster": "https://i.pinimg.com/736x/a3/08/2b/a3082ba53195867f0516469b7062871a.jpg",
+    "synopsis": "Una peli larga",
+    "year": 2021,
+    "director": "Agustin",
+    "duration": "Largometraje",
+    "mainActors": ["Ton", "Gus", "Xavi"],
+    "country": ["argentina"],
+    "url": "Aca va la URL",
+    "associateProducer": "Productor asociado",
+    "rating": 4.8
+}
+
+{
+    "title": "La Teta Asustada",
+    "genres": ["accion"],
+    "poster": "https://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/70/00/92/19103927.jpg",
+    "synopsis": "Una peli larga",
+    "year": 2021,
+    "director": "Agustin",
+    "duration": "Largometraje",
+    "mainActors": ["Ton", "Gus", "Xavi"],
+    "country": ["argentina"],
+    "url": "Aca va la URL",
+    "associateProducer": "Productor asociado",
+    "rating": 4.8
+}
+
+{
+    "title": "Los Sonámbulos",
+    "genres": ["accion"],
+    "poster": "https://imagenes.gatotv.com/categorias/peliculas/posters/los_sonambulos.jpg",
+    "synopsis": "Una peli larga",
+    "year": 2021,
+    "director": "Agustin",
+    "duration": "Largometraje",
+    "mainActors": ["Ton", "Gus", "Xavi"],
+    "country": ["argentina"],
+    "url": "Aca va la URL",
+    "associateProducer": "Productor asociado",
+    "rating": 4.8
+}
+
+{
+    "title": "Plaga Zombie Mutante",
+    "genres": ["accion"],
+    "poster": "https://moviehaku.com/thumbs/films/400x590/Plaga-Zombie--Zona-Mutante--Revolucion-Toxica.jpg",
+    "synopsis": "Una peli larga",
+    "year": 2021,
+    "director": "Agustin",
+    "duration": "Largometraje",
+    "mainActors": ["Ton", "Gus", "Xavi"],
+    "country": ["argentina"],
+    "url": "Aca va la URL",
+    "associateProducer": "Productor asociado",
+    "rating": 4.8
+}
+
+{
+    "title": "La Ciénaga",
+    "genres": ["accion"],
+    "poster": "https://images-na.ssl-images-amazon.com/images/I/71A0Ls9QIML._RI_.jpg",
+    "synopsis": "Una peli larga",
+    "year": 2021,
+    "director": "Agustin",
+    "duration": "Largometraje",
+    "mainActors": ["Ton", "Gus", "Xavi"],
+    "country": ["argentina"],
+    "url": "Aca va la URL",
+    "associateProducer": "Productor asociado",
+    "rating": 4.8
+}
+
+{
+    "title": "XXX",
+    "genres": ["accion"],
+    "poster": "https://medias.unifrance.org/medias/24/118/30232/format_page/media.jpg",
+    "synopsis": "Una peli larga",
+    "year": 2021,
+    "director": "Agustin",
+    "duration": "Largometraje",
+    "mainActors": ["Ton", "Gus", "Xavi"],
+    "country": ["argentina"],
+    "url": "Aca va la URL",
+    "associateProducer": "Productor asociado",
+    "rating": 4.8
+}
+
+{
+    "title": "La Mujer Sin Cabeza",
+    "genres": ["accion"],
+    "poster": "https://i.pinimg.com/originals/14/cd/cf/14cdcf04c8a5e99aee40d1958c3141cf.jpg",
+    "synopsis": "Una peli larga",
+    "year": 2021,
+    "director": "Agustin",
+    "duration": "Largometraje",
+    "mainActors": ["Ton", "Gus", "Xavi"],
+    "country": ["venezuela"],
+    "url": "Aca va la URL",
+    "associateProducer": "Productor asociado",
+    "rating": 4.8
+}
