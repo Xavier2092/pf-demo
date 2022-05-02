@@ -138,13 +138,15 @@ export default function Home (){
                                 allMovies ? allMovies?.map(data => {
                                     return (
                                         <div className="cardgrid" key={data.id}>
-                                            <Card title={data.title}
-                                            poster={data.poster}
-                                            year={data.year}
-                                            country={data.country}
-                                            genres={"Géneros: " + data.genres?.join(", ")}
-                                            rating={"Rating: " + data.rating}
-                                            key={data.id} />
+                                            <Link to={`/detail/${data.id}`} >
+                                                <Card title={data.title}
+                                                poster={data.poster}
+                                                year={data.year}
+                                                country={data.country}
+                                                genres={"Géneros: " + data.genres?.join(", ")}
+                                                rating={"Rating: " + data.rating}
+                                                key={data.id} />
+                                            </Link>
                                         </div>
                                     )
                                 }) :
